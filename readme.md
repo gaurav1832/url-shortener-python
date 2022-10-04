@@ -1,6 +1,3 @@
-Name: Gaurav Garwa
-Reg No: 20BCE10530
-
 Procedure to run the application: 
 
 To start the application just run the main.py file. Make sure you have installed all required libraries.

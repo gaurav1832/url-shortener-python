@@ -11,5 +11,6 @@ Oputput will look like :
 
 
 
-Original link: https://www.tutorialspoint.com/how-to-add-text-inside-a-tkinter-canvas#:~:text=In%20order%20to%20add%20text,text%2C%20options%E2%80%A6.).
-Short Link: tinyurl.com/2ob55j3b
+Original link: https://www.tutorialspoint.com/how-to-add-text-inside-a-tkinter-canvas#:~:text=In%20order%20to%20add%20text,text%2C%20options%E2%80%A6.)
+
+Short Link: https://www.tinyurl.com/2ob55j3b

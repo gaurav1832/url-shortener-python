@@ -4,6 +4,5 @@ On running the file a tkinter window will be displayed where you will be asked t
 Then click on the short link button to short the url.
 To open the short url clink on open link.
 
-The output will look like:
-![](../../Screenshot 2022-10-04 at 13.21.48.png)
-![](../../Screenshot 2022-10-04 at 13.15.07.png)
+<img width="1440" alt="Screenshot 2022-10-04 at 13 21 48" src="https://user-images.githubusercontent.com/78600377/193792296-83c17387-ff68-40ae-87e4-9c00c92c3126.png">
+<img width="1440" alt="Screenshot 2022-10-04 at 13 15 07" src="https://user-images.githubusercontent.com/78600377/193792367-728b367b-23c2-4bd0-bfd5-3f91ef5d8dbe.png">

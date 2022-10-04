@@ -1,3 +1,8 @@
+Name: Gaurav Garwa
+Reg No: 20BCE10530
+
+Procedure to run the application: 
+
 To start the application just run the main.py file. Make sure you have installed all required libraries.
 
 On running the file a tkinter window will be displayed where you will be asked to enter the url that you want to short.
